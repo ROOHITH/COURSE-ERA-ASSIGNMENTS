@@ -47,14 +47,12 @@ span{
 /* for pc or dektop*/
 @media (min-width:992px){
     .box{
-        background-color: aqua;
+        width:33%;
     }
 }
 /* for tablets*/
 @media (min-width:768px) and (max-width:991px){
-    .box{
-        background-color:yellow;
-    }
+   
     #box1,#box2{
         width:40%;
     }
